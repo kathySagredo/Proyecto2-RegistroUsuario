@@ -1,5 +1,7 @@
 # Instrucciones cohorte 
 
+Nota: Asegurate de estar dentro de cada proyecto al empezar los pasos: registro-usarios-react y registro-usuarios-express.
+
 ## Registro-usuarios-react
 
 Pasos:
@@ -14,7 +16,7 @@ Pasos:
 1. Abrir terminal
 2. npm install
 3. crear archivo .env que contenga:
- - SECRETOPRIVATEKEY = Cualquier contraseña
+ - SECRETORPRIVATEKEY = cualquiercontraseña
  - MONGO_URI = mongodb://localhost:27017/backend-users  
 4. Comando: node --watch index.js
 
